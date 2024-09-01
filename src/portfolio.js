@@ -26,7 +26,7 @@ const greeting = {
     "A passionate Full Stack Software Developer 🚀 with expertise in ASP.NET and Angular for building dynamic web applications. Proficient in both frontend and backend development, adept at creating responsive user interfaces and robust server-side functionality. Experienced in tackling diverse challenges in web development projects."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1DQ2tvSMIw5ImmBzvvVTpqkbsMjvJJYa7/view", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
